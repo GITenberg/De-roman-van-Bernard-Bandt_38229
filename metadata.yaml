@@ -1,0 +1,26 @@
+_repo: De-roman-van-Bernard-Bandt_38229
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38229-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Robbers, Herman Johan
+    birthdate: 1868
+    deathdate: 1937
+    gutenberg_agent_id: '32094'
+    url: http://www.gutenberg.org/2009/agents/32094
+description: ''
+gutenberg_issued: '2011-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38229'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch fiction'
+- !lcc 'PT'
+title: De roman van Bernard Bandt
+url: http://www.gutenberg.org/ebooks/38229
